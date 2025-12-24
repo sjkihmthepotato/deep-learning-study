@@ -1,2 +1,1 @@
-# signal-processing-basics
-basic training of signal processing(analg&amp;digital)
+#deep-learning-study
